@@ -27,7 +27,6 @@ O sistema inclui três telas principais:
 - Campo de e-mail
 - Campo de senha com botão para mostrar/esconder senha
 - Opção "Lembrar-me"
-- Alert do Material UI para feedback de sucesso
 - Botões para login social (Google, Windows e Apple)
 
 ---
@@ -37,7 +36,6 @@ O sistema inclui três telas principais:
 - Nome completo
 - E-mail
 - Senha (com toggle de visibilidade)
-- Ícones dentro dos inputs usando `slotProps`
 - Layout moderno com Tailwind + MUI
 
 ---
@@ -60,4 +58,22 @@ O sistema inclui três telas principais:
 
 ```bash
 git clone git@github.com:Alecsander-Castro/avaliacao-viveo.git
+```
+
+2. **Acesse a pasta do projeto**
+
+```bash
+cd avaliacao-viveo
+```
+
+3. **Instale as dependências**
+
+```bash
+npm install
+```
+
+4. **Execute o projeto**
+
+```bash
+npm run dev
 ```
